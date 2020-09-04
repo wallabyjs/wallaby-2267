@@ -98,7 +98,7 @@
     "lodash-webpack-plugin": "0.11.5",
     "mime-types": "^2.1.24",
     "next-compose-plugins": "2.1.1",
-    "node-sass": "4.10.0",
+    "node-sass": "4.14.1",
     "nodemon": "1.19.0",
     "prettier": "prettier/prettier#master",
     "pretty-quick": "1.11.1",
